@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "This is the first post"
+    },
+    {
+        "id": 2,
+        "title": "Here's the second post"
+    },
+    {
+        "id": 3,
+        "title": "Another interesting post"
+    },
+    {
+        "id": 4,
+        "title": "Yet another post in the list"
+    },
+    {
+        "id": 5,
+        "title": "Last but not least, the fifth post"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Ada Wong",
+        "age": 27,
+        "person_photo": "https://i.pinimg.com/736x/f4/c6/44/f4c644c50a7bc8a10109c7223d00c700.jpg"
+    },
+    {
+        "name": "Leon Kennedy",
+        "age": 28,
+        "person_photo": "https://avatars.dzeninfra.ru/get-zen_doc/1129675/pub_5eb448528082e876cdb29b93_5eb44f16b26e5049f7a47ae2/scale_1200"
+    },
+    {
+        "name": "Ashley Graham",
+        "age": 22,
+        "person_photo": "https://vkplay.ru/hotbox/content_files/Stories/2023/02/17/2d31ca8d980c4a00bbe6ebdc89a605e4.jpg"
+    }
+]
